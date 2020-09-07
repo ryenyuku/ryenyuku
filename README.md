@@ -1,7 +1,7 @@
 ### Hewwo there 👋
 
-Hewwo there humans! I'm just a 16 y.o student who loves to codes! Currently I'm the founder & leader of ThatCakeID.
-I can codes Java, C, C++, C#, JavaScript and etc!
+Hewwo there humans! I'm just a 16 y.o student who loves to code! Currently I'm the founder & leader of ThatCakeID.
+I can code in Java, C, C++, C#, JavaScript and etc!
 
 <!--
 **ryenyuku/ryenyuku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
