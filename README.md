@@ -18,7 +18,7 @@ Oh, and also please take a look at [OpenBlocks](https://github.com/OpenBlocksTea
 - [GCC compiler](https://gcc.gnu.org/)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea)
 
-<h1>Statistic 🏅</h1> <img alt="リェンーゆく's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ryenyuku&show_icons=true&count_private=true&bg_color=#FF000000" align="right">
+<h1>Statistic 🏅</h1> <img alt="リェンーゆく's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ryenyuku&show_icons=true&count_private=true&bg_color=FF000000" align="right">
 
 **Currently Active Repositories:**
 - [ThatCakeID/zz-android](https://github.com/ThatCakeID/zz-android)
