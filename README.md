@@ -25,6 +25,7 @@ Join our [Discord Server](https://discord.gg/M4YQRcP)! Visit our website [here](
 
 ----------
 
+Forked from [TheClashFruit](https://github.com/TheClashFruit/TheClashFruit)
 <!--
 **ryenyuku/ryenyuku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
