@@ -3,7 +3,7 @@
 Hewwo there humans! I'm a 16 y.o student who loves to code! Currently I'm the founder & leader of [ThatCakeID](https://github.com/ThatCakeID).
 I also likes to play some games sometimes, like Minecraft!
 
-You can contact me in [Discord](https://dsc.bio/ryenyuku), [Twitter](https://twitter.com/ryenyuku).
+You can contact me in [Discord](https://dsc.bio/ryenyuku), [Twitter](https://twitter.com/ryenyuku), and [Telegram](https://t.me/ryenyuku).
 
 Join our [Discord Server](https://discord.gg/M4YQRcP)! Visit our website [here](https://thatcakeid.com).
 
