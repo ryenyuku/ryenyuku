@@ -1,4 +1,4 @@
-<h1>リェンーゆく (Ryenyuku)</h1> <img src="https://raw.githubusercontent.com/ryenyuku/ryenyuku/master/welcome-fire.gif" align="right" height="200px">
+<h1>リェンーゆく (Ryenyuku)</h1> <img src="https://raw.githubusercontent.com/ryenyuku/ryenyuku/master/welcome-fire.gif" align="right" height="100px">
 
 Hewwo there humans! I'm a 16 y.o student who loves to code! Currently I'm the founder & leader of [ThatCakeID](https://github.com/ThatCakeID).
 I also likes to play some games sometimes, like Minecraft!
