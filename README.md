@@ -7,7 +7,7 @@ You can contact me in [Discord](https://dsc.bio/ryenyuku), [Twitter](https://twi
 
 Join our [Discord Server](https://discord.gg/M4YQRcP)! Visit our website [here](https://thatcakeid.com).
 
-Oh, and also please take a look at [OpenBlocks](https://github.com/OpenBlocks)!
+Oh, and also please take a look at [OpenBlocks](https://github.com/OpenBlocksTeam)!
 <!--I can code in Java, C, C++, C#, JavaScript and etc! -->
 ----------
 
