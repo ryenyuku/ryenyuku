@@ -17,6 +17,7 @@ Oh, and also please take a look at [OpenBlocks](https://github.com/OpenBlocksTea
 - Standard text editors, such as [Kate](https://kate-editor.org/) and [Nano](https://www.nano-editor.org)
 - [GCC compiler](https://gcc.gnu.org/)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea)
+- And more...
 
 <h1>Statistic 🏅</h1> <img alt="リェンーゆく's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ryenyuku&show_icons=true&count_private=true&bg_color=00000000&text_color=808080" align="right">
 
