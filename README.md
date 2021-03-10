@@ -6,8 +6,6 @@ I also likes to play some games sometimes, like Minecraft!
 You can contact me in [Discord](https://dsc.bio/ryenyuku), [Twitter](https://twitter.com/ryenyuku), and [Telegram](https://t.me/ryenyuku).
 
 Join our [Discord Server](https://discord.gg/M4YQRcP)! Visit our website [here](https://thatcakeid.com).
-
-Oh, and also please take a look at [OpenBlocks](https://github.com/OpenBlocksTeam)!
 <!--I can code in Java, C, C++, C#, JavaScript and etc! -->
 ----------
 
