@@ -1,6 +1,6 @@
 <h1>リェンーゆく (Ryenyuku)</h1> <img src="https://raw.githubusercontent.com/ryenyuku/ryenyuku/master/welcome-fire.gif" align="right" height="100px">
 
-Hewwo there humans! I'm a 16 y.o student who loves to code! Currently I'm the founder & leader of [ThatCakeID](https://github.com/ThatCakeID).
+Hi there! My real name is Andrew and I'm a 16 y.o student who loves to code! I'm an Indonesian 🇮🇩. Currently I'm the founder & leader of [ThatCakeID](https://github.com/ThatCakeID).
 I also likes to play some games sometimes, like Minecraft!
 
 You can contact me in [Discord](https://dsc.bio/ryenyuku), [Twitter](https://twitter.com/ryenyuku), and [Telegram](https://t.me/ryenyuku).
