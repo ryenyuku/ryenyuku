@@ -17,7 +17,7 @@ Join our [Discord Server](https://discord.gg/M4YQRcP)! Visit our website [here](
 - [IntelliJ IDEA](https://www.jetbrains.com/idea)
 - And more...
 
-<h1>Statistic 🏅</h1> <img alt="リェンーゆく's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ryenyuku&show_icons=true&count_private=true&bg_color=00000000&text_color=808080" align="right">
+<h1>Statistic 🏅</h1> <img alt="リェンーゆく's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ryenyuku&show_icons=true&count_private=true&bg_color=00000000&text_color=808080&hide_border=true" align="right">
 
 **Currently Active Repositories:**
 - [ThatCakeID/zz-android](https://github.com/ThatCakeID/zz-android)
