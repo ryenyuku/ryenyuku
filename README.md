@@ -20,7 +20,7 @@ Join our [Discord Server](https://discord.gg/M4YQRcP)! Visit our website [here](
 <h1>Statistic 🏅</h1> <img alt="リェンーゆく's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ryenyuku&show_icons=true&count_private=true&bg_color=00000000&text_color=808080&hide_border=true" align="right">
 
 **Currently Active Repositories:**
-- [ThatCakeID/zz-android](https://github.com/ThatCakeID/zz-android)
+- ThatCakeID/zz-android (Private)
 - [ThatCakeID/OpenShader](https://github.com/ThatCakeID/OpenShader)
 - [ThatCakeID/os-thm-android](https://github.com/ThatCakeID/os-thm-android)
 
