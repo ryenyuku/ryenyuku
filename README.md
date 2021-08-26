@@ -10,6 +10,7 @@ Join ThatCakeID Discord server [here](https://discord.gg/M4YQRcP)! Visit ThatCak
 ----------
 
 <h1>Tools that I use 🛠️</h1>
+
 - [Android Studio](https://developer.android.com/studio)
 - [PHPStorm](https://www.jetbrains.com/phpstorm)
 - Standard text editors, such as [Kate](https://kate-editor.org/) and [Nano](https://www.nano-editor.org)
