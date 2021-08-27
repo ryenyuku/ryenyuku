@@ -23,7 +23,7 @@ Join ThatCakeID Discord server [here](https://discord.gg/M4YQRcP)! Visit ThatCak
 
 **Currently Active Repositories:**
 - ThatCakeID/zz-android (Private)
-- [Blokkok/blokkok](https://github.com/Blokkok)
+- [Blokkok/blokkok](https://github.com/Blokkok/blokkok)
 - [ThatCakeID/OpenShader](https://github.com/ThatCakeID/OpenShader)
 - [ThatCakeID/os-thm-android](https://github.com/ThatCakeID/os-thm-android)
 
