@@ -1,6 +1,6 @@
 <h1>リェンーゆく (Ryenyuku)</h1> <img src="https://raw.githubusercontent.com/ryenyuku/ryenyuku/master/welcome-fire.gif" align="right" height="100px">
 
-Hello there! I'm a 17 y.o student who loves to code! I came from Indonesia 🇮🇩. Currently I'm the founder & leader of [ThatCakeID](https://github.com/ThatCakeID) and developer of [Blokkok](https://github.com/Blokkok).
+Hello there! I'm a 17 y.o student who loves to code! I'm from Indonesia 🇮🇩. Currently I'm the founder & leader of [ThatCakeID](https://github.com/ThatCakeID) and developer of [Blokkok](https://github.com/Blokkok).
 I also likes to play some games sometimes, like Minecraft!
 
 You can contact me in [Discord](https://dsc.bio/ryenyuku), [Twitter](https://twitter.com/ryenyuku), and [Telegram](https://t.me/ryenyuku).
