@@ -19,7 +19,7 @@ Join ThatCakeID Discord server [here](https://discord.gg/M4YQRcP)! Visit ThatCak
 - A GNU/Linux operating system ([Arch Linux](https://archlinux.org))
 - And more...
 
-<h1>Statistic 🏅</h1>
+
 ![リェンーゆく's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryenyuku&show_icons=true&count_private=true#gh-light-mode-only)
 ![リェンーゆく's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryenyuku&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only)
 
