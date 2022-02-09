@@ -20,7 +20,7 @@ Join ThatCakeID Discord server [here](https://discord.gg/M4YQRcP)! Visit ThatCak
 - And more...
 
 
-<h1>Statistic 🏅</h1> <img alt="リェンーゆく's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ryenyuku&show_icons=true&count_private=true#gh-light-mode-only" align="right">
+<h1>Statistic 🏅</h1> <img alt="リェンーゆく's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ryenyuku&show_icons=true&count_private=true#gh-light-mode-only" align="right"><img alt="リェンーゆく's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ryenyuku&show_icons=true&count_private=true&theme=dark#gh-light-mode-only" align="right">
 ![リェンーゆく's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryenyuku&show_icons=true&count_private=true#gh-light-mode-only)![リェンーゆく's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryenyuku&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only)
 
 
