@@ -20,8 +20,7 @@ Join ThatCakeID Discord server [here](https://discord.gg/M4YQRcP)! Visit ThatCak
 - And more...
 
 
-![リェンーゆく's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryenyuku&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only)![リェンーゆく's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryenyuku&show_icons=true&count_private=true#gh-light-mode-only)
-
+<h1>Statistic 🏅</h1> <img alt="リェンーゆく's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ryenyuku&show_icons=true&count_private=true&bg_color=00000000&text_color=808080&hide_border=true" align="right">
 
 **Currently Active Repositories:**
 - ThatCakeID/zz-android (Private)
