@@ -10,9 +10,11 @@
 to my personal GitHub profile!
 </div>
 
-<hr>
+----------
 
+<div align="center">
 <h1>リェンーゆく (Ryenyuku)</h1>
+</div>
 
 Hello there! I'm a 17 y.o student from Indonesia 🇮🇩 who loves to code! Currently I'm the founder & leader of [ThatCakeID](https://github.com/ThatCakeID) and developer of [Blokkok](https://github.com/Blokkok).
 I also likes to play some games sometimes, like Minecraft!
