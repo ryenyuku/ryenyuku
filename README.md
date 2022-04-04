@@ -1,8 +1,4 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/ryenyuku/ryenyuku/master/fan.gif" alt="Yes, it's a fan" align="center">
-</div>
-
-<div align="center">
 <img src="https://raw.githubusercontent.com/ryenyuku/ryenyuku/master/welcome-fire.gif" alt="Welcome" align="center">
 </div>
 
