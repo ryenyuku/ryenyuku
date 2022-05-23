@@ -42,4 +42,4 @@ Join ThatCakeID Discord server [here](https://discord.gg/M4YQRcP)! Visit ThatCak
 
 ----------
 
-Forked from [TheClashFruit](https://github.com/TheClashFruit/TheClashFruit)'s personal README
+Forked from [TheClashFruit](https://github.com/TheClashFruit/TheClashFruit)'s old personal README
