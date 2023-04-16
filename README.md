@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/ryenyuku/ryenyuku/master/welcome-fire.gif" alt="Welcome" align="center">
+<img src="https://raw.githubusercontent.com/yusufrafir/yusufrafir/master/welcome-fire.gif" alt="Welcome" align="center">
 </div>
 
 <div align="center">
@@ -9,15 +9,15 @@ to my personal GitHub profile!
 ----------
 
 <div align="center">
-<h1>リェンーゆく (Ryenyuku)</h1>
+<h1>يوسف (Yusuf)</h1>
 </div>
 
-Hello there! I'm a 16 y.o student from Indonesia 🇮🇩 who loves to code! Currently I'm the founder & leader of [ThatCakeID](https://github.com/ThatCakeID) and developer of [Blokkok](https://github.com/Blokkok).
+Hello there! I'm a 17 y.o student from Indonesia 🇮🇩 who loves to code! Currently I'm the founder & leader of [ThatCakeID](https://github.com/ThatCakeID) and developer of [Blokkok](https://github.com/Blokkok).
 I also likes to play some games sometimes, like Minecraft!
 
-You can contact me in [Discord](https://dsc.bio/ryenyuku), [Twitter](https://twitter.com/ryenyuku), and [Telegram](https://t.me/ryenyuku).
+You can contact me in [Discord](https://dsc.bio/ryenyuku), [Twitter](https://twitter.com/ryenyuku), and [Telegram](https://t.me/yusufrafir).
 
-Join ThatCakeID Discord server [here](https://discord.gg/M4YQRcP)! Visit ThatCakeID website [here](https://thatcakeid.com).
+Join ThatCakeID Discord server [here](https://discord.gg/tV5qQjcZhb)! Visit ThatCakeID website [here](https://thatcakeid.com).
 
 ----------
 
@@ -32,7 +32,7 @@ Join ThatCakeID Discord server [here](https://discord.gg/M4YQRcP)! Visit ThatCak
 - And more...
 
 
-<h1>Statistic 🏅</h1> <img alt="リェンーゆく's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ryenyuku&show_icons=true&count_private=true&bg_color=00000000&text_color=808080&hide_border=true" align="right">
+<h1>Statistic 🏅</h1> <img alt="يوسف's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=yusufrafir&show_icons=true&count_private=true&bg_color=00000000&text_color=808080&hide_border=true" align="right">
 
 **Currently Active Repositories:**
 - ThatCakeID/zz-android (Private)
