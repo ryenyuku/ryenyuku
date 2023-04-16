@@ -8,7 +8,7 @@ to my personal GitHub profile!
 
 ----------
 
-<div align="center">
+<div dir="rtl" align="center">
 <h1>يوسف (Yusuf)</h1>
 </div>
 
