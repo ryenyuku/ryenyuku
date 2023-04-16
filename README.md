@@ -19,6 +19,8 @@ You can contact me in [Discord](https://dsc.bio/ryenyuku), [Twitter](https://twi
 
 Join ThatCakeID Discord server [here](https://discord.gg/tV5qQjcZhb)! Visit ThatCakeID website [here](https://thatcakeid.com).
 
+NOTE: You might know me with my previous alias as "Ryenyuku", "リェンーゆく", "TeamWorks DEV", "TeamWorks Studio", or "Yusuf Studio".
+
 ----------
 
 <h1>Tools that I use 🛠️</h1>
