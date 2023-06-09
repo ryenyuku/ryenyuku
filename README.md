@@ -12,12 +12,12 @@ to my personal GitHub profile!
 <h1>يوسف (Yusuf)</h1>
 </div>
 
-Hello there! I'm a 17 y.o student from Indonesia 🇮🇩 who loves to code! Currently I'm the founder & leader of [ThatCakeID](https://github.com/ThatCakeID) and developer of [Blokkok](https://github.com/Blokkok).
-I also likes to play some games sometimes, like Minecraft!
+Hello there! I'm a 17 y.o student from Indonesia 🇮🇩 who loves to code! Currently I'm the founder & the leader of [ThatCakeID](https://github.com/ThatCakeID) and one of the developers of [Blokkok](https://github.com/Blokkok).
+I also like to play some games, like Minecraft!
 
 You can contact me in [Discord](https://dsc.bio/ryenyuku), [Twitter](https://twitter.com/ryenyuku), and [Telegram](https://t.me/ryenyuku).
 
-Join ThatCakeID Discord server [here](https://discord.gg/tV5qQjcZhb)! Visit ThatCakeID website [here](https://thatcakeid.com).
+Join our ThatCakeID Discord server [here](https://discord.gg/tV5qQjcZhb) and visit our ThatCakeID website [here](https://thatcakeid.com)!
 
 NOTE: You might know me with my real name as "Yusuf" or my previous alias as "TeamWorks DEV", "TeamWorks Studio", or "Yusuf Studio".
 
