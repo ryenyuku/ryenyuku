@@ -15,7 +15,7 @@ to my personal GitHub profile!
 Hello there! I'm a 17 y.o student from Indonesia 🇮🇩 who loves to code! Currently I'm the founder & the leader of [ThatCakeID](https://github.com/ThatCakeID) and one of the developers of [Blokkok](https://github.com/Blokkok).
 I also like to play some games, like Minecraft!
 
-You can contact me in [Discord](https://dsc.bio/ryenyuku), [Twitter](https://twitter.com/ryenyuku), and [Telegram](https://t.me/ryenyuku).
+You can contact me in [Discord](https://discord.com/users/636693221757550593), [Twitter](https://twitter.com/ryenyuku), and [Telegram](https://t.me/ryenyuku).
 
 Join our ThatCakeID Discord server [here](https://discord.gg/tV5qQjcZhb) and visit our ThatCakeID website [here](https://thatcakeid.com)!
 
