@@ -41,7 +41,3 @@ NOTE: You might know me with my real name as "Yusuf" or my previous alias as "Te
 - [Blokkok/blokkok](https://github.com/Blokkok/blokkok)
 - [ThatCakeID/OpenShader](https://github.com/ThatCakeID/OpenShader)
 - [ThatCakeID/os-thm-android](https://github.com/ThatCakeID/os-thm-android)
-
-----------
-
-Forked from [TheClashFruit](https://github.com/TheClashFruit/TheClashFruit)'s old personal README
