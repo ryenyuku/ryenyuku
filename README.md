@@ -31,4 +31,4 @@ NOTE: You might know me with my real name as "Yusuf" or my previous alias as "Te
 - And more...
 
 ### 📊 Statistics
-<img alt="リェンーゆく's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ryenyuku&show_icons=true&count_private=true&bg_color=00000000&text_color=808080&hide_border=true" align="right">
+<img alt="リェンーゆく's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ryenyuku&show_icons=true&count_private=true&bg_color=00000000&text_color=808080&hide_border=true">
