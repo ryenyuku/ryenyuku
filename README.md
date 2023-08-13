@@ -30,5 +30,5 @@ NOTE: You might know me with my real name as "Yusuf" or my previous alias as "Te
 - A GNU/Linux operating system ([Arch Linux](https://archlinux.org))
 - And more...
 
-### 📊 Statisctics
+### 📊 Statistics
 <img alt="リェンーゆく's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ryenyuku&show_icons=true&count_private=true&bg_color=00000000&text_color=808080&hide_border=true" align="right">
