@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 <img src="https://raw.githubusercontent.com/ryenyuku/ryenyuku/master/welcome-fire.gif" alt="Welcome" align="center">
 </div>
 
@@ -10,7 +10,7 @@ to my personal GitHub profile!
 
 <div dir="rtl" align="center">
 <h2>يوسف (Yusuf)</h2>
-</div>
+</div> -->
 
 Hello there! I'm a 18 y.o student from Indonesia 🇮🇩 ~~who loves to code!~~ (I'm no longer into coding.) ~~Currently I'm the founder & the leader of [ThatCakeID](https://github.com/ThatCakeID)~~ (defunct) ~~and one of the developers of [Blokkok](https://github.com/Blokkok).~~ (defunct.)
 ~~I also like to play some games, like Minecraft!~~
