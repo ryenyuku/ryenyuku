@@ -12,8 +12,8 @@ to my personal GitHub profile!
 <h2>يوسف (Yusuf)</h2>
 </div>
 
-Hello there! I'm a 18 y.o student from Indonesia 🇮🇩 ~~who loves to code!~~ (I'm no longer into coding.) ~~Currently I'm the founder & the leader of [ThatCakeID](https://github.com/ThatCakeID) and one of the developers of [Blokkok](https://github.com/Blokkok).
-I also like to play some games, like Minecraft!~~
+Hello there! I'm a 18 y.o student from Indonesia 🇮🇩 ~~who loves to code!~~ (I'm no longer into coding.) ~~Currently I'm the founder & the leader of [ThatCakeID](https://github.com/ThatCakeID)~~ (defunct) ~~and one of the developers of [Blokkok](https://github.com/Blokkok).~~ (defunct)
+~~I also like to play some games, like Minecraft!~~
 
 You can contact me in ~~[Discord](https://discord.com/users/636693221757550593), [Twitter](https://twitter.com/ryenyuku)~~, and [Telegram](https://t.me/ryenyuku).
 
@@ -22,13 +22,13 @@ You can contact me in ~~[Discord](https://discord.com/users/636693221757550593),
 NOTE: You might know me with my real name as "Yusuf" or my previous alias as "TeamWorks DEV", "TeamWorks Studio", or "Yusuf Studio".
 
 ### 🛠️ Tools
-~~- [Android Studio](https://developer.android.com/studio)~~
-~~- [PHPStorm](https://www.jetbrains.com/phpstorm)~~
-~~- Standard text editors, such as [Kate](https://kate-editor.org/) and [Nano](https://www.nano-editor.org)~~
-~~- [GCC compiler](https://gcc.gnu.org/)~~
-~~- [IntelliJ IDEA](https://www.jetbrains.com/idea)~~
-~~- A GNU/Linux operating system ([Arch Linux](https://archlinux.org))~~
-~~- And more...~~
+- ~~[Android Studio](https://developer.android.com/studio)~~
+- ~~[PHPStorm](https://www.jetbrains.com/phpstorm)~~
+- ~~Standard text editors, such as [Kate](https://kate-editor.org/) and [Nano](https://www.nano-editor.org)~~
+- ~~[GCC compiler](https://gcc.gnu.org/)~~
+- ~~[IntelliJ IDEA](https://www.jetbrains.com/idea)~~
+- ~~A GNU/Linux operating system ([Arch Linux](https://archlinux.org))~~
+- ~~And more...~~
 
 ### 📊 Statistics
 <img alt="リェンーゆく's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ryenyuku&show_icons=true&count_private=true&bg_color=00000000&text_color=808080&hide_border=true">
