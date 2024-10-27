@@ -12,7 +12,7 @@ to my personal GitHub profile!
 <h2>يوسف (Yusuf)</h2>
 </div>
 
-Hello there! I'm a 18 y.o student from Indonesia 🇮🇩 ~~who loves to code!~~ (I'm no longer into coding.) ~~Currently I'm the founder & the leader of [ThatCakeID](https://github.com/ThatCakeID)~~ (defunct) ~~and one of the developers of [Blokkok](https://github.com/Blokkok).~~ (defunct)
+Hello there! I'm a 18 y.o student from Indonesia 🇮🇩 ~~who loves to code!~~ (I'm no longer into coding.) ~~Currently I'm the founder & the leader of [ThatCakeID](https://github.com/ThatCakeID)~~ (defunct) ~~and one of the developers of [Blokkok](https://github.com/Blokkok).~~ (defunct.)
 ~~I also like to play some games, like Minecraft!~~
 
 You can contact me in ~~[Discord](https://discord.com/users/636693221757550593), [Twitter](https://twitter.com/ryenyuku)~~, and [Telegram](https://t.me/ryenyuku).
