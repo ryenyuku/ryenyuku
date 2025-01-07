@@ -34,3 +34,4 @@ NOTE: You might know me with my real name as "Yusuf" or my previous alias as "Te
 <img alt="リェンーゆく's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ryenyuku&show_icons=true&count_private=true&bg_color=00000000&text_color=808080&hide_border=true"> -->
 
 <h1>Inactive.</h1>
+Contact me in [Discord](https://discord.com/users/636693221757550593), [Twitter](https://twitter.com/ryenyuku), and [Telegram](https://t.me/yusufrafir).
